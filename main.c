@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "arith_utils.h"
 
-int main(void) {
+int main() {
     float x, y;
 
     // TODO: prompt user for two floats
